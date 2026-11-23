@@ -1,0 +1,1 @@
+You don't need to code: just describe the app idea in plain words, an AI agent builds it on make.fun, and if it wins a bounty the prize money is real and yours.
